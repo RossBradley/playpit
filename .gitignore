@@ -1,7 +1,7 @@
 ### VisualStudioCode ###
 .vscode
 .vscode/*      # Maybe .vscode/**/* instead - see comments
-playpit.code-workspace
+#playpit.code-workspace
 launch.json
 #!.vscode/settings.json
 #!.vscode/tasks.json
